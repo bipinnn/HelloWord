@@ -1,1 +1,3 @@
-# HelloWord
+# HelloWorld
+
+Print("Hello World")
